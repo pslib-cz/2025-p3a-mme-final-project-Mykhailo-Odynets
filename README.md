@@ -8,5 +8,5 @@ Funkční designový obal pro nástěnné hodiny. Cílem bylo vytvořit estetick
 
 ### Inspirace
  
-[Organic structure](https://paladimstudio.com/products/kletka-3-0-stl-wall-clock-digital-design-for-3d-printing)
+[Organic structure](https://paladimstudio.com/products/kletka-3-0-stl-wall-clock-digital-design-for-3d-printing)  
 [Metal frame](https://www.colourobsession.com.au/clock-kits/copper-rose-classic-skeleton-metal-clock-frame-600mm-diameter)
