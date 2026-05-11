@@ -1,4 +1,6 @@
-# 3D Printed Clock Chassis
+# Minimalistický držák toaletního papíru
+
+Minimalistický nástěnný držák na toaletní papír
 
 - **Mechanismus**: Unikátní způsob doplňování – role se jednoduše zasune ze spodní části a zajistí v drážkách, pro výměnu ji stačí pouze nadzvednout.
 - **Design**: Geometricky definovaná konstrukce s integrovanými montážními otvory, která v sobě spojuje moderní estetiku a vysokou mechanickou odolnost.
